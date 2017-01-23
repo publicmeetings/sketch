@@ -1,17 +1,16 @@
 # Tech Spec
 
 ### Database
-- Relational (MySQL on Amazon RDS) or Document (MongoDB)
+- MySQL on Amazon RDS
 
 ### API
-- Django or Ruby on Rails
+- Django
 
 ### UI
 - React
 - Hosted on Amazon S3
 
 # v0
-- MongoDB
 - [Django](http://djangoproject.com)
 - Form to enter meeting data
 
