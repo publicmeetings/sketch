@@ -8,6 +8,6 @@ Let's create a database of public meetings with an API and UI to browser, filter
 
 # What have you done so far?
 
-- registered `publicmeetings.co` and `ekklesia.co` ([wiki](https://en.wikipedia.org/wiki/Ecclesia_(ancient_Athens))
+- registered `publicmeetings.co` and `ekklesia.co` ( [see wikipedia](https://en.wikipedia.org/wiki/Ecclesia_(ancient_Athens) )
 - setup ZOHO Mail
 - created AWS account
